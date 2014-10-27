@@ -1,4 +1,9 @@
-cmsplugin-actionkit-form
+cmsplugin-actionkit
 ========================
 
-A plugin for DjangoCMS that allows easy embedding of ActionKit forms
+A set of plugins for DjangoCMS and Actionkit.
+
+Plugin List
+-----------
+
+* CMSPlugin Actionkit Form - A plugin for easily embedding actionkit forms
