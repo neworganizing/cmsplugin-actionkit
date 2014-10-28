@@ -1,0 +1,7 @@
+{% if error %}
+<p class="cmsplugin-error">{{ error }}</p>
+{% else %}
+<div id="{{ instance.page_name }}" class="actionkit-form">
+{{ actionkit_form|safe }}
+</div>
+{% endif %}
